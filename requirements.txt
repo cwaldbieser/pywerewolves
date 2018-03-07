@@ -1,0 +1,5 @@
+Automat==0.6.0
+argparse==1.2.1
+attrs==17.3.0
+six==1.11.0
+wsgiref==0.1.2
